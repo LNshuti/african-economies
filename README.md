@@ -25,7 +25,15 @@ Describe trade relationships for Africa's largest economies and their trading pa
 
 #### 3. Egypt
 
+![What did Egypt import in 2020](https://user-images.githubusercontent.com/13305262/232208459-f250cd02-d761-4b3a-af1d-fff2e906c082.png)
+
+![What did Egypt export in 2020](https://user-images.githubusercontent.com/13305262/232208475-2b49304e-2be2-4971-b297-71d31cfe04b8.png)
+
+
 #### 4. Algeria
+
+![What did Algeria import in 2020](https://user-images.githubusercontent.com/13305262/232208495-78501fe9-a3e4-4781-94ca-d85994896208.png)
+
 
 #### 5. Angola
 
