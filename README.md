@@ -5,8 +5,10 @@ Describe trade relationships for Africa's largest economies and their trading pa
 
 #### 1. South Africa
 
+##### Imports
 ![What did South Africa import in 2020 (1)](https://user-images.githubusercontent.com/13305262/232207969-fdd7fd87-40b4-487f-8164-6870c5a135bf.png)
 
+##### Exports
 ![What did South Africa export in 2020 (1)](https://user-images.githubusercontent.com/13305262/232207988-9975f38c-0ab6-47af-a8ea-f51837a15401.png)
 
 
